@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <g id="logo" transform="translate(-14097 668)">
+    <g id="Rectangle_212" data-name="Rectangle 212" transform="translate(14097 -668)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="100" height="100" rx="50" stroke="none"/>
+      <rect x="0.5" y="0.5" width="99" height="99" rx="49.5" fill="none"/>
+    </g>
+    <text id="Web" transform="translate(14104 -602)" fill="#3d37f1" font-size="41" font-family="Lato-Bold, Lato" font-weight="700"><tspan x="0" y="0">Web</tspan></text>
+  </g>
+</svg>

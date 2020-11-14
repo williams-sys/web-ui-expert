@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1318" height="453" viewBox="0 0 1318 453">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.969" y1="-0.154" x2="0.031" y2="0.473" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#a5a2f6"/>
+      <stop offset="1" stop-color="#3d37f1"/>
+    </linearGradient>
+    <filter id="Path_1361" x="582.18" y="-24.014" width="1679.152" height="631.277" filterUnits="userSpaceOnUse">
+      <feOffset dy="40" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="20" result="blur"/>
+      <feFlood flood-color="#c5c3f9" flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Artboard_9">
+      <rect width="1318" height="453"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_9" data-name="Artboard – 9" clip-path="url(#clip-Artboard_9)">
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Path_1361)">
+      <path id="Path_1361-2" data-name="Path 1361" d="M6786.514-401.614c62.9,13.654,125.822,1.693,174.316,30.055,80.573,47.122,142.245,140.455,254.461,168.305,179.258,44.49,221.167,35.926,463.821,87.864s427.9-348.033,427.9-348.033L8137.287-618l-1559.152-4.014S6618.346-438.123,6786.514-401.614Z" transform="translate(-5935.96 618)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>
